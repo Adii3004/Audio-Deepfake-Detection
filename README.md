@@ -1,6 +1,6 @@
 # Audio Deepfake Detection
 
-This project provides a **state-of-the-art solution** for detecting manipulated audio using **transfer learning techniques**. The system is trained and evaluated on the **ASVspoof 2019 dataset**, which contains both **genuine speech recordings ("bonafide")** and **synthetic/manipulated speech ("spoof")**.
+This project provides a solution for detecting manipulated audio using **transfer learning techniques**. The system is trained and evaluated on the **ASVspoof 2019 dataset**, which contains both **genuine speech recordings ("bonafide")** and **synthetic/manipulated speech ("spoof")**.
 
 ## Key Features
 
