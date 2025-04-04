@@ -45,9 +45,9 @@ Download the kaggle.json file and place it in ~/.kaggle/.
 ### Model Architecture
 The system uses a hybrid deep learning model:
 
-Wav2Vec 2.0 Base: Extracts robust speech representations.
-Convolutional Layers (CNN): Detects local patterns in the extracted embeddings.
-Bidirectional GRU: Captures temporal dependencies in both directions.
-Attention Mechanism: Focuses on the most important frames for classification.
-Fully Connected Layer: Outputs the final bonafide/spoof decision.
+- Wav2Vec 2.0 Base: Extracts robust speech representations.
+- Convolutional Layers (CNN): Detects local patterns in the extracted embeddings.
+- Bidirectional GRU: Captures temporal dependencies in both directions.
+- Attention Mechanism: Focuses on the most important frames for classification.
+- Fully Connected Layer: Outputs the final bonafide/spoof decision.
 
